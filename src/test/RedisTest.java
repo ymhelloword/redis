@@ -9,6 +9,7 @@ import java.util.Map;
 /**
  * @Author zjl
  * @Date 2019/6/29 18:25
+ * 0.2
  */
 public class RedisTest {
     @Test

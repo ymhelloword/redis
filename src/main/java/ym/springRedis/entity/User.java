@@ -5,6 +5,7 @@ import java.io.Serializable;
 /**
  * @Author zjl
  * @Date 2019/6/30 17:07
+ * 0.2
  */
 public class User implements Serializable {
     private String name;
